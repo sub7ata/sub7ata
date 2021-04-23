@@ -4,7 +4,7 @@
 **sub7ata/sub7ata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on ... Python, Django, Flask
 - 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ... Django
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
